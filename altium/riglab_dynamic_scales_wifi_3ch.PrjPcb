@@ -184,7 +184,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DGAXRPJD
 
 [Document9]
 DocumentPath=riglab_dynamic_scales_wifi_3ch_FAB_DRW.PCBDwf
@@ -276,54 +276,57 @@ UniqueId=D0BAAF61-E3EB-40F2-AB80-6A9D08F2F5C1
 Description=Basic
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
-Variation1=Designator=J?|UniqueId=\SWZVMRFT\HGKQSWRZ|Kind=0|AlternatePart=
-Variation2=Designator=R?|UniqueId=\SWZVMRFT\XEXMGDQY|Kind=1|AlternatePart=
-Variation3=Designator=R?|UniqueId=\SWZVMRFT\QECVWHQT|Kind=1|AlternatePart=
-Variation4=Designator=R42|UniqueId=\QQWGJSQZ\KAPPTMAZ|Kind=1|AlternatePart=
-Variation5=Designator=R41|UniqueId=\QQWGJSQZ\ZPOWCAPG|Kind=1|AlternatePart=
-Variation6=Designator=R36|UniqueId=\QQWGJSQZ\XZTRMMPF|Kind=1|AlternatePart=
-Variation7=Designator=R35|UniqueId=\QQWGJSQZ\KWXQUKNL|Kind=1|AlternatePart=
-Variation8=Designator=R33|UniqueId=\QQWGJSQZ\TVHSQLMQ|Kind=1|AlternatePart=
-Variation9=Designator=R32|UniqueId=\QQWGJSQZ\OLUYABDP|Kind=1|AlternatePart=
-Variation10=Designator=R16|UniqueId=\SWZVMRFT\ICJRNWKU|Kind=1|AlternatePart=
-Variation11=Designator=R74|UniqueId=\WIBNFZYE\XGZKNODP|Kind=1|AlternatePart=
-Variation12=Designator=R1|UniqueId=\SWZVMRFT\OTFZSRUS|Kind=1|AlternatePart=
-Variation13=Designator=J9A|UniqueId=\SWZVMRFT\RVWNKQQS|Kind=1|AlternatePart=
-Variation14=Designator=J10A|UniqueId=\SWZVMRFT\IJAGMOOO|Kind=1|AlternatePart=
-Variation15=Designator=J9B|UniqueId=\GZMVWQUH\RVWNKQQS|Kind=1|AlternatePart=
-Variation16=Designator=J10B|UniqueId=\GZMVWQUH\IJAGMOOO|Kind=1|AlternatePart=
-Variation17=Designator=J9C|UniqueId=\UTNCHFIK\RVWNKQQS|Kind=1|AlternatePart=
-Variation18=Designator=J10C|UniqueId=\UTNCHFIK\IJAGMOOO|Kind=1|AlternatePart=
+VariationCount=17
+Variation1=Designator=R?|UniqueId=\SWZVMRFT\XEXMGDQY|Kind=1|AlternatePart=
+Variation2=Designator=R?|UniqueId=\SWZVMRFT\QECVWHQT|Kind=1|AlternatePart=
+Variation3=Designator=R42|UniqueId=\QQWGJSQZ\KAPPTMAZ|Kind=1|AlternatePart=
+Variation4=Designator=R41|UniqueId=\QQWGJSQZ\ZPOWCAPG|Kind=1|AlternatePart=
+Variation5=Designator=R36|UniqueId=\QQWGJSQZ\XZTRMMPF|Kind=1|AlternatePart=
+Variation6=Designator=R35|UniqueId=\QQWGJSQZ\KWXQUKNL|Kind=1|AlternatePart=
+Variation7=Designator=R33|UniqueId=\QQWGJSQZ\TVHSQLMQ|Kind=1|AlternatePart=
+Variation8=Designator=R32|UniqueId=\QQWGJSQZ\OLUYABDP|Kind=1|AlternatePart=
+Variation9=Designator=R16|UniqueId=\SWZVMRFT\ICJRNWKU|Kind=1|AlternatePart=
+Variation10=Designator=R74|UniqueId=\WIBNFZYE\XGZKNODP|Kind=1|AlternatePart=
+Variation11=Designator=R1|UniqueId=\SWZVMRFT\OTFZSRUS|Kind=1|AlternatePart=
+Variation12=Designator=J9A|UniqueId=\SWZVMRFT\RVWNKQQS|Kind=1|AlternatePart=
+Variation13=Designator=J10A|UniqueId=\SWZVMRFT\IJAGMOOO|Kind=1|AlternatePart=
+Variation14=Designator=J9B|UniqueId=\GZMVWQUH\RVWNKQQS|Kind=1|AlternatePart=
+Variation15=Designator=J10B|UniqueId=\GZMVWQUH\IJAGMOOO|Kind=1|AlternatePart=
+Variation16=Designator=J9C|UniqueId=\UTNCHFIK\RVWNKQQS|Kind=1|AlternatePart=
+Variation17=Designator=J10C|UniqueId=\UTNCHFIK\IJAGMOOO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=Vitaliy Krepak
+Name=
+Value=
 
 [Parameter2]
-Name=BoardName
-Value=riglab_dynamic_scales_wifi
+Name=Title
+Value=riglab_dynamic_scales_wifi_3ch
 
 [Parameter3]
+Name=Project_Name
+Value=riglab_dynamic_scales_wifi_3ch
+
+[Parameter4]
+Name=ProjectName
+Value=riglab_dynamic_scales_wifi_3ch
+
+[Parameter5]
+Name=Project
+Value=riglab_dynamic_scales_wifi_3ch
+
+[Parameter6]
 Name=Company_Name
 Value=RIGLAB-XYZ
 
-[Parameter4]
-Name=Project
-Value=riglab_dynamic_scales_wifi
-
-[Parameter5]
-Name=Project_Name
-Value=riglab_dynamic_scales_wifi
-
-[Parameter6]
-Name=ProjectName
-Value=riglab_dynamic_scales_wifi
-
 [Parameter7]
-Name=Title
-Value=riglab_dynamic_scales_wifi
+Name=BoardName
+Value=riglab_dynamic_scales_wifi_3ch
+
+[Parameter8]
+Name=Author
+Value=Vitaliy Krepak
 
 [Configuration1]
 Name=Sources
